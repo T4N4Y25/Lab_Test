@@ -1,7 +1,5 @@
 print("Test One")
 import unittest
-import sys
-import os
 import io 
 import code #Folder containing getbest.py, the __init__.py file has details on the import
 
